@@ -7,7 +7,7 @@ A passionate frontend developer from Ukraine.
 I have been studying front-end development for more than a year.I made mockups for several months in order to consolidate my skills. I understand the principles of adaptive layout and semantics. After that, I enrolled in the state program "IT Generation" for a Front-end course, where I learned the basics of Javascript and working with React. I am currently continuing my studies in IT on my own.
 
 * 🌍  I'm based in Kiev
-* 🖥️  See my portfolio at [https://chill-movies-c84a5.web.app/](http://chill-movies-c84a5.web.app/)
+* 🖥️  See my portfolio at [https://andrii-parkhomenko-portfolio.web.app/](https://andrii-parkhomenko-portfolio.web.app/)
 * ✉️  You can contact me at [elhombredelasmilcaras963@gmail.com](mailto:elhombredelasmilcaras963@gmail.com)
 * 🚀  I'm currently working on [improving the Prime1Store](http://prime1shop.web.app/)
 * 🧠  I'm learning TypeScript
